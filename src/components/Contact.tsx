@@ -47,7 +47,7 @@ const Contact = () => {
 
   const socialLinks = [
     { icon: <Github className="w-6 h-6" />, label: "GitHub", link: "https://github.com/Candy2803" },
-    { icon: <Linkedin className="w-6 h-6" />, label: "LinkedIn", link: "#" },
+    { icon: <Linkedin className="w-6 h-6" />, label: "LinkedIn", link: "https://www.linkedin.com/in/candy-mzungu-52216b203" },
     { icon: <Instagram className="w-6 h-6" />, label: "Instagram", link: "https://instagram.com/_.candy.cee" },
   ];
 

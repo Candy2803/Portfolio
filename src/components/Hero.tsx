@@ -148,7 +148,7 @@ const Hero = () => {
               <a href="https://github.com/Candy2803" className="p-3 rounded-full bg-slate-800/50 border border-purple-500/30 hover:border-purple-400/50 hover:bg-purple-600/20 transition-all duration-300 hover:scale-110 group">
                 <Github className="w-6 h-6 text-purple-400 group-hover:text-white" />
               </a>
-              <a href="#" className="p-3 rounded-full bg-slate-800/50 border border-blue-500/30 hover:border-blue-400/50 hover:bg-blue-600/20 transition-all duration-300 hover:scale-110 group">
+              <a href="https://www.linkedin.com/in/candy-mzungu-52216b203" className="p-3 rounded-full bg-slate-800/50 border border-blue-500/30 hover:border-blue-400/50 hover:bg-blue-600/20 transition-all duration-300 hover:scale-110 group">
                 <Linkedin className="w-6 h-6 text-blue-400 group-hover:text-white" />
               </a>
             </div>
