@@ -17,7 +17,7 @@ const Experience = () => {
       role: "Participant",
       type: "Competition",
       description: "Participated in this intensive hackathon, working with a team to develop innovative solutions under time pressure. Focused on creative problem-solving and rapid prototyping.",
-      impact: "Developed full-stack application in 48 hours",
+      impact: "Developed full-stack application in 8 hours",
       skills: ["Rapid Prototyping", "Team Collaboration", "Full-Stack Development", "Innovation"]
     }
   ];
