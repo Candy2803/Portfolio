@@ -29,7 +29,7 @@ const Education = () => {
     {
       icon: <BookOpen className="w-8 h-8" />,
       degree: "Robotics",
-      institution: "STEMLENS",
+      institution: "STEMLens Networks",
       status: "Currently Studying",
       description: "Advanced coursework in robotics engineering, automation systems, and AI integration. Focusing on the intersection of software and hardware solutions.",
       skills: ["Robot Programming", "Sensors & Actuators", "Control Systems", "Machine Learning", "Hardware Integration"]
