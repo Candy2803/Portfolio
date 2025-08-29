@@ -19,6 +19,14 @@ const Education = () => {
       skills: ["Java", "C#", "System Analysis", "Computer Repair and maintenance"]
     },
     {
+      icon: <GraduationCap className="w-8 h-8" />,
+      degree: "Python Programming",
+      institution: "Inceptor Institute of Technology",
+      status: "Graduate",
+      description: "Building APIs using Python language and SQL tables",
+      skills: ["Python", "SQL"]
+    },
+    {
       icon: <BookOpen className="w-8 h-8" />,
       degree: "Robotics",
       institution: "STEMLENS",
